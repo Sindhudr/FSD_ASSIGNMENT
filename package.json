@@ -1,6 +1,7 @@
 {
   "name": "react-login-page",
   "version": "0.1.0",
+  "dev": "cross-env NODE_OPTIONS='--openssl-legacy-provider' next dev",
   "private": true,
   "dependencies": {
     "create-react-class": "^15.7.0",
